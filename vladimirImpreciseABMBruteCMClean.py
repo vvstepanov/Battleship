@@ -3,7 +3,7 @@
 @title:     You sank my battleship, or did you? Epistemic uncertainty in agent-based models
 @purpose:   Propagate epistemic uncertainty in an agent-based model
 @date:      22 Jan 2021
-@author:    ferson
+@author:    S. Ferson and V.Stepanov
 """
 
 from kleene import kleene
